@@ -1,5 +1,7 @@
 class Dog 
   def bark
     puts "woof!"
-  end 
+  end
+  def dog_name 
+    puts "#{dog_name}"
 end 
